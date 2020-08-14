@@ -8,7 +8,7 @@
 ## Demo
 ###### link site: https://dropbox-ui-clone.netlify.app/
 
-<img src="https://user-images.githubusercontent.com/47197695/90208415-2ce63d80-ddbf-11ea-9345-4a0202e2b044.png" />
+<img src="https://user-images.githubusercontent.com/47197695/90208415-2ce63d80-ddbf-11ea-9345-4a0202e2b044.png" alt="Imagem Demo Dropbox" />
 
 
 
@@ -29,7 +29,7 @@ yarn start
 👤 **Hiago Prates**
 
 * Github: [@hiagopsilva](https://github.com/hiagopsilva)
-* LinkedIn: [@https:\/\/www.linkedin.com\/in\/hiago-prates-04902b132\/](https://linkedin.com/in/https:\/\/www.linkedin.com\/in\/hiago-prates-04902b132\/)
+* LinkedIn: [@Hiago Prates](https://linkedin.com/in/https:\/\/www.linkedin.com\/in\/hiago-prates-04902b132\/)
 
 ## Show your support
 
